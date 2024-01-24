@@ -38,7 +38,7 @@ Sebagai contoh :
 | Android Studio                            | Done   | 4.0                         |
 | SDK                                       | Done   | 29                          |
 | ANDROID_HOME & Add platform-tools to Path | Done   | -                           |
-| Android Emulator (opt)                    | Done   | pixel 2 xl api 29           |
+| Android Emulator (opt)                    | Done   | -                           |
 | Create Project RN using npx               | Done   | -                           |
 | Run Project on Emulator / Device          | Done   | -                           |
 
